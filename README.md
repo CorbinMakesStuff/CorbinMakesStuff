@@ -1,4 +1,6 @@
-```if (User.IsReadingProfile == true)
+```
+if (User.IsReadingProfile == true)
 {
 user.IsCool = true
-}```
+}
+```
