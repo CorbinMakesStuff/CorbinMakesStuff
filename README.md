@@ -1,6 +1,6 @@
 ```
-if (User.IsReadingProfile == true)
+if (You.AreReadingThis == true)
 {
-User.IsCool = true
+You.AreCool = true
 }
 ```
