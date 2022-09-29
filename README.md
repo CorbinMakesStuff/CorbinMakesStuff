@@ -1,6 +1,6 @@
 ```
 if (You.AreReadingThis == true)
 {
-You.AreCool = true
+You.AreCool = true;
 }
 ```
